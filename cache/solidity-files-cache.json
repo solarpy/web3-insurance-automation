@@ -1,0 +1,111 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Admin\\Documents\\Projects\\clientdataforrpa_frontend\\contracts\\alarm.sol": {
+      "lastModificationDate": 1668943748199,
+      "contentHash": "1d67522615f7d93254060f865b2ec2a9",
+      "sourceName": "contracts/alarm.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.25 <0.9.0"
+      ],
+      "artifacts": [
+        "Alarm"
+      ]
+    },
+    "C:\\Users\\Admin\\Documents\\Projects\\clientdataforrpa_frontend\\contracts\\clientfactory.sol": {
+      "lastModificationDate": 1668943774825,
+      "contentHash": "417d82e819a0ce6be9307e23b1179a8b",
+      "sourceName": "contracts/clientfactory.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.25 <0.9.0"
+      ],
+      "artifacts": [
+        "PolicySmartContract",
+        "SmartContractFactory"
+      ]
+    },
+    "C:\\Users\\Admin\\Documents\\Projects\\clientdataforrpa_frontend\\contracts\\mapping.sol": {
+      "lastModificationDate": 1668943803330,
+      "contentHash": "e18c798d9a21c3ca3e625fecd4752a44",
+      "sourceName": "contracts/mapping.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.25 <0.9.0"
+      ],
+      "artifacts": [
+        "Mapping"
+      ]
+    }
+  }
+}
